@@ -1,0 +1,2 @@
+# login-signup-form
+ A login and signup form using HTML, CSS, PHP, and MySQL. This form allows users to signup and login. All information is stored in a MySQL database. After successful login the user is redirected to their dashboard. Project Website : http://localhost/loginProject/login.php   If you want to run this website, you need to run MySQL on the XAMPP server. Then you can open the website via this link. If you want to look at the database, then you need to go to localhost / phpmyadmin.
